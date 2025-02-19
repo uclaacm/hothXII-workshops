@@ -1,8 +1,10 @@
 # Intro
 
-This workshop introduces the foundational building blocks of the web: HTML, CSS, and JavaScript. Learn how to use these work together to create super cool websites!
+Hi everyone! This workshop introduces the foundational building blocks of the web: HTML, CSS, and JavaScript. Learn how to use these work together to create super cool websites!
 
-Link to Slides: [Slides](https://docs.google.com/presentation/d/183WJ3dzvoR-5tiJm2AtaWxPMg75GvIJQdzoCc45M-w0/edit?usp=sharing)
+**Resources:**
+- [Slides](https://docs.google.com/presentation/d/183WJ3dzvoR-5tiJm2AtaWxPMg75GvIJQdzoCc45M-w0/edit?usp=sharing)
+- [Recording](https://docs.google.com/presentation/d/183WJ3dzvoR-5tiJm2AtaWxPMg75GvIJQdzoCc45M-w0/edit?usp=sharing)
 
 ### Setup
 
