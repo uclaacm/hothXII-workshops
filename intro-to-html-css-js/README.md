@@ -4,7 +4,7 @@ This workshop covers the basics of HTML, CSS, and JavaScript, the 3 core compone
 
 Link to Slides: [Slides](https://docs.google.com/presentation/d/183WJ3dzvoR-5tiJm2AtaWxPMg75GvIJQdzoCc45M-w0/edit?usp=sharing)
 
-## Setup
+### Setup
 
 1. Install a text editor (e.g., [VSCode](https://code.visualstudio.com/)).
 2. Create a new folder for your project files.
@@ -13,7 +13,7 @@ Link to Slides: [Slides](https://docs.google.com/presentation/d/183WJ3dzvoR-5tiJ
    - `styles.css`: Where you'll write your CSS to style the page.
    - `script.js`: Where you'll write JavaScript to make your page interactive.
 
-# HTML
+## HTML
 
 HTML (HyperText Markup Language) provides the basic structure of a website using elements and tags. Think of it as the skeleton of a webpage.
 
@@ -86,11 +86,11 @@ An HTML **element** consists of an opening tag, content, and a closing tag.
 - **`<head>`**: Contains metadata (e.g., title, links to CSS)
 - **`<body>`**: Holds everything visible on the webpage
 
-# CSS Section
+## CSS
 
-## What is CSS?
+### What is CSS?
 
-CSS (Cascading Style Sheets) is used to style the appearance of HTML elements on a webpage. It controls things like layout, colors, fonts, and spacing. Basically, it makes everything pretty!
+**CSS (Cascading Style Sheets)** is used to style the appearance of HTML elements on a webpage. It controls things like layout, colors, fonts, and spacing. Basically, it makes everything pretty!
 
 ### Inline vs. Internal vs. External CSS
 
@@ -139,8 +139,9 @@ p { color: green; }
 ### Syntax
 
 CSS syntax consists of **selectors** and **declarations**:
-• A selector specifies which HTML element to style.
-• A declaration contains one or more property-value pairs, wrapped in curly braces {}.
+
+- A selector specifies which HTML element to style.
+- A declaration contains one or more property-value pairs, wrapped in curly braces {}.
 
 ```
 selector {
@@ -176,7 +177,7 @@ To apply CSS to an HTML document, you can link an external .css file in the <hea
 <link rel="stylesheet" href="styles.css">
 ```
 
-# JavaScript
+## JavaScript
 
 JavaScript is a versatile programming language that allows you to add interactivity and dynamic behavior to your web pages. It is commonly used for manipulating the DOM, handling events, and making web pages responsive.
 
@@ -184,7 +185,27 @@ JavaScript is a versatile programming language that allows you to add interactiv
 
 JavaScript is a programming language that makes web pages interactive. It adds behaviors to websites like updating content, validating forms, and handling user input dynamically.
 
-### OOP Basics
+### Basic Programming Concepts
+
+- **Variables** - Store data values for use throughout your program (`let`, `const`, `var`)
+- **Arrays** - Hold multiple values in a single variable, accessible by index
+- **Operators** - Perform operations on values, like arithmetic (`+`, `-`), comparison (`==`, `>`, `<`), and logical (`&&`, `||`)
+- **If/Else Statements** - Allow conditional execution of code based on whether a condition is true or false
+- **Loops** - Repeat a block of code multiple times (for, while, do-while)
+- **Functions** - Reusable blocks of code that perform a task and can accept parameters
+
+```javascript
+function greet(name) {
+  console.log("Hello, " + name);
+}
+greet("Joe");
+```
+
+- **Objects** - Store key-value pairs, representing real-world entities and their properties
+
+```
+let person = { name: "Joe", age: 30, city: "New York" };
+```
 
 ### THE DOM
 
@@ -218,6 +239,14 @@ const button = document.getElementById("clickMeButton");
 button.onclick = function() {
   alert("Button was clicked!");
 };
+```
+
+### Linking JS to HTML
+
+To apply JS to an HTML document, you can link an external .js file in the <head> section of your HTML using the <script> tag:
+
+```
+<script src="script.js" defer></script>
 ```
 
 # Closing Notes
