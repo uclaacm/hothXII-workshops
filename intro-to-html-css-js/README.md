@@ -17,7 +17,6 @@ Hi everyone! This workshop introduces the foundational building blocks of the we
    - `script.js`: Where you'll write JavaScript to make your page interactive.
 
 ## HTML
-
 HTML (HyperText Markup Language) provides the basic structure of a website using elements and tags. Think of it as the skeleton of a webpage.
 
 A **tag** is a keyword enclosed in angle brackets (<>) that defines how content should appear or behave in an HTML document. Most tags come in pairs: an opening tag and a closing tag (with a / before the tag name in the closing tag).
@@ -90,9 +89,6 @@ An HTML **element** consists of an opening tag, content, and a closing tag.
 - **`<body>`**: Holds everything visible on the webpage
 
 ## CSS
-
-### What is CSS?
-
 **CSS (Cascading Style Sheets)** is used to style the appearance of HTML elements on a webpage. It controls things like layout, colors, fonts, and spacing. Basically, it makes everything pretty!
 
 ### Inline vs. Internal vs. External CSS
@@ -189,12 +185,7 @@ To apply CSS to an HTML document, you can link an external .css file in the <hea
 ```
 
 ## JavaScript
-
-JavaScript is a versatile programming language that allows you to add interactivity and dynamic behavior to your web pages. It is commonly used for manipulating the DOM, handling events, and making web pages responsive.
-
-### What is JavaScript?
-
-JavaScript is a programming language that makes web pages interactive. It adds behaviors to websites like updating content, validating forms, and handling user input dynamically.
+**JavaScript** is a programming language that makes web pages interactive. It adds behaviors to websites like updating content, validating forms, and handling user input dynamically.
 
 ### Basic Programming Concepts
 
