@@ -59,6 +59,7 @@ As we mentioned earlier, HTTP defines different requests and responses.
         "data": "ABC123"
     }
     ```
+- One thing to note is that these component definitions aren't super strict and may differ slightly from online examples. Just focus on the concepts themselves rather than memorizing the different components!
 
 ### HTTP Responses:
 - After handling a received request, a server will send a response back to the client, consisting of a **head** and a **body**.
@@ -68,7 +69,7 @@ As we mentioned earlier, HTTP defines different requests and responses.
     - 3XX: redirection (request was received but it was redirected to someplace else or some additional action must be completed)
     - 4XX: client error (request wasn't made by the client correctly)
     - 5XX: server error (server failed to complete the received request)
-- The body contains any data/files that were requested
+- The body contains any data/files that were requested.
 
 ## Extra Stuff
 Before we get to the demo, there are a couple of things relevant to web APIs that aren't strictly necessary to know but are fairly fundemental.
