@@ -1,4 +1,5 @@
 # Intro
+Date: February 17, 2025 Teacher: Lavender Hwang
 
 Hi everyone! This workshop introduces the foundational building blocks of the web: HTML, CSS, and JavaScript. Learn how to use these work together to create super cool websites!
 
