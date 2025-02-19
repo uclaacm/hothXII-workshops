@@ -19,19 +19,19 @@ HTML (HyperText Markup Language) provides the basic structure of a website using
 
 A **tag** is a keyword enclosed in angle brackets (<>) that defines how content should appear or behave in an HTML document. Most tags come in pairs: an opening tag and a closing tag (with a / before the tag name in the closing tag).
 
-```
+```html
 <p>This is a paragraph.</p>
 ```
 
 Some tags are self-closing and do not require a closing tag.
 
-```
+```html
 <img src="image.jpg" alt="Description" />
 ```
 
 An HTML **element** consists of an opening tag, content, and a closing tag.
 
-```
+```html
 <h1>Welcome to My Website</h1>
 ```
 
@@ -68,7 +68,7 @@ An HTML **element** consists of an opening tag, content, and a closing tag.
 2. If you haven't already, create an `index.html` file.
 3. In your `index.html` file, add the following boilerplate code. This is the basic structure of every HTML document.
 
-```
+```html
 <!DOCTYPE html>
 <head>
     <title>My First Webpage</title>
@@ -100,18 +100,20 @@ An HTML **element** consists of an opening tag, content, and a closing tag.
   ```
 - **Internal CSS**: Styles defined within the <style> tag in the <head> section of the HTML document.
 
-```
+```html
 <head>
   <style>
-    h1 { color: red; }
+    h1 {
+      color: red;
+    }
   </style>
 </head>
 ```
 
 - **External CSS**: Styles defined in a separate .css file linked to the HTML document.
 
-```
-<link rel="stylesheet" href="styles.css">
+```html
+<link rel="stylesheet" href="styles.css" />
 ```
 
 ### Selectors
@@ -120,20 +122,26 @@ Selectors are used to target HTML elements in CSS to apply styles. Common types 
 
 - **Element Selector**: Targets all instances of an HTML element.
 
-```
-p { color: green; }
+```css
+p {
+  color: green;
+}
 ```
 
 - **Class Selector**: Targets elements with a specific class attribute. Use a period (.) before the class name.
 
-```
-.myClass { font-size: 16px; }
+```css
+.myClass {
+  font-size: 16px;
+}
 ```
 
 - **ID Selector**: Targets a specific element with an ID. Use a hash (#) before the ID name.
 
-```
-#myID { font-weight: bold; }
+```css
+#myID {
+  font-weight: bold;
+}
 ```
 
 ### Syntax
@@ -143,7 +151,7 @@ CSS syntax consists of **selectors** and **declarations**:
 - A selector specifies which HTML element to style.
 - A declaration contains one or more property-value pairs, wrapped in curly braces {}.
 
-```
+```css
 selector {
   property: value;
 }
@@ -151,7 +159,7 @@ selector {
 
 Example:
 
-```
+```css
 p {
   color: blue;
   font-size: 18px;
@@ -173,8 +181,8 @@ p {
 
 To apply CSS to an HTML document, you can link an external .css file in the <head> section of your HTML using the <link> tag:
 
-```
-<link rel="stylesheet" href="styles.css">
+```html
+<link rel="stylesheet" href="styles.css" />
 ```
 
 ## JavaScript
@@ -203,7 +211,7 @@ greet("Joe");
 
 - **Objects** - Store key-value pairs, representing real-world entities and their properties
 
-```
+```javascript
 let person = { name: "Joe", age: 30, city: "New York" };
 ```
 
@@ -213,7 +221,7 @@ The **DOM** (Document Object Model) allows JavaScript to interact with the HTML 
 
 Example:
 
-```
+```javascript
 const message = document.getElementById("message");
 message.textContent = "I just changed my content!";
 ```
@@ -234,9 +242,9 @@ message.textContent = "I just changed my content!";
 
 Example:
 
-```
+```javascript
 const button = document.getElementById("clickMeButton");
-button.onclick = function() {
+button.onclick = function () {
   alert("Button was clicked!");
 };
 ```
@@ -245,7 +253,7 @@ button.onclick = function() {
 
 To apply JS to an HTML document, you can link an external .js file in the <head> section of your HTML using the <script> tag:
 
-```
+```javascript
 <script src="script.js" defer></script>
 ```
 
