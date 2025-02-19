@@ -215,7 +215,7 @@ greet("Joe");
 let person = { name: "Joe", age: 30, city: "New York" };
 ```
 
-### THE DOM
+### The DOM
 
 The **DOM** (Document Object Model) allows JavaScript to interact with the HTML elements on a webpage by letting you select, change, add, or delete elements and their content dynamically.
 
