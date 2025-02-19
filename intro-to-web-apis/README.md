@@ -48,7 +48,7 @@ As we mentioned earlier, HTTP defines different requests and responses.
     - **POST**: a request to create new data on the server.
     - **PUT**: a request to update existing data on the server.
     - **DELETE**: a request to delete existing data from the server.
-- A URL specifies to the URL where to go and what to retrieve. It's typically made of a protocol (i.e. HTTP or HTTPS), domain/host (e.g. example.com), path (e.g. /api/orders), and optional query parameters that may provide extra details for the request.
+- A URL specifies where the request should go and what to retrieve. It's typically made of a protocol (i.e. HTTP or HTTPS), domain/host (e.g. example.com), path (e.g. /api/orders), and optional query parameters that may provide extra details for the request.
 - Headers are also optional additional details provided as a part of the request, like content type and authentication.
 - A body typically contains data being sent in the request, but is not used in GET requests.
 - See if you can identify the components described above in this example of an HTTP request:
