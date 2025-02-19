@@ -3,7 +3,7 @@
 **Date**: February 17, 2025<br>
 **Teacher**: Nishant Ray
 
-Hi there! Welcome to the Intro to Web APIs workshop, made for HOTH XII. We'll be going over what a client-server model is, an overview of APIs and web APIs, and a fun demo.  If you're looking to easily add complex functionality to your projects, or just learn what web APIs are, you're in the right place!
+Hi there! Welcome to the Intro to Web APIs workshop, made for HOTH XII. We'll be going over what a client-server model is, an overview of APIs and web APIs, HTTP, some extra stuff, and a fun demo.  If you're looking to easily add complex functionality to your projects, or just learn what web APIs are, you're in the right place!
 
 ## Resources
 - [Slides](https://tinyurl.com/web-apis-slides)
@@ -13,6 +13,7 @@ Hi there! Welcome to the Intro to Web APIs workshop, made for HOTH XII. We'll be
 - [Client-Server Model](#client-server-model)
 - [Understanding APIs](#understanding-apis)
 - [Overview of HTTP](#overview-of-http)
+- [Extra Stuff](#extra-stuff)
 - [Demo](#demo)
   
 ## Client-Server Model
