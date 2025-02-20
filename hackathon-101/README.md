@@ -6,7 +6,7 @@
 Hi there! Welcome to the **HOTH XII Hackathon 101** guide. This resource is designed to help you navigate the hackathon experience, from forming a team to creating a successful project demo. Whether you're a beginner or have some experience, this guide will provide valuable insights to help you succeed at **Hack on the Hill (HOTH)**.  
 
 ## Resources  
-- [Slides](ADD_SLIDE_LINK)  
+- [Slides](https://tinyurl.com/hackathon-101-slides)  
 - [Recording](ADD_RECORDING_LINK)  
 
 ## Topics Covered  
