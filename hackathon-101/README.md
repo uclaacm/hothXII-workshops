@@ -35,7 +35,7 @@ For official details, visit: [HOTH Website](https://hoth.uclaacm.com/)
 ## General HOTH Information  
 
 - Official Website: [HOTH XII](https://hoth.uclaacm.com/)  
-- Join our Discord for team formation and discussions: [Hack UCLA ACM Discord (Scroll to Bottom)](https://hack.uclaacm.com/)  
+- Join our Discord for team formation and discussions: [Hack UCLA ACM Discord](https://discord.gg/gwaaFS2fah)  
 
 ---
 
@@ -43,7 +43,7 @@ For official details, visit: [HOTH Website](https://hoth.uclaacm.com/)
 
 ### Finding a Team  
 - If you already have a team, you’re good to go!  
-- If not, join our **Discord** and connect with others: [Hack UCLA ACM Discord (Scroll to Bottom)](https://hack.uclaacm.com/)  
+- If not, join our **Discord** and connect with others: [Hack UCLA ACM Discord](https://discord.gg/gwaaFS2fah)  
 
 ### Brainstorming Ideas  
 - Check HOTH’s **themes** for project inspiration.  
