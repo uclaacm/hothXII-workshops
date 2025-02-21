@@ -125,7 +125,7 @@ You'll see a link popup in your terminal which you can click on to see your proj
 Now let's set up what we need on the Spotify Developer Dashboard! Make sure you know your Spotify account login credentials (both free and premium accounts work with the API). Login to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard). Head on over to "Your Dashboard" and click on "Create an app." Enter what you would like for "App Name" and "App Description." For "Redirect URI," just put http://127.0.0.1:3000 and click "Add." Lastly, select the "Web API" option at the end of the form and be sure to agree to the terms of service.
 
 Now, in the Dashboard, click on the app name that you just created and then click on the "Settings" button on the top right. The *Client ID* can be found at the top, as well as the *Client Secret*, for which you have to click to reveal. With this page still open, head on over to your IDE. In the root directory of your project, create a file named `.env`. This will store all of your necessary **environment variables** that you want to hide from the world. In this file, add your Spotify app's *Client ID* and *Client Secret* like so, replacing the bracketed fields properly:
-```ini
+```dotenv
 CLIENT_ID=[paste_your_client_id_here]
 CLIENT_SECRET=[paste_your_client_secret_here]
 ```
@@ -190,7 +190,7 @@ That's it! If you did everything correctly, then you should be able to search up
 Here is all of the finished code:
 
 #### .env
-```ini
+```dotenv
 CLIENT_ID=[paste_your_client_id_here]
 CLIENT_SECRET=[paste_your_client_secret_here]
 ```
