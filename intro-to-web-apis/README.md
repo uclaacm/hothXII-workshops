@@ -48,7 +48,7 @@ As we mentioned earlier, HTTP defines different requests and responses.
     - **POST**: a request to create new data on the server.
     - **PUT**: a request to update existing data on the server.
     - **DELETE**: a request to delete existing data from the server.
-- A URL specifies to the URL where to go and what to retrieve. It's typically made of a protocol (i.e. HTTP or HTTPS), domain/host (e.g. example.com), path (e.g. /api/orders), and optional query parameters that may provide extra details for the request.
+- A URL specifies where the request should go and what to retrieve. It's typically made of a protocol (i.e. HTTP or HTTPS), domain/host (e.g. example.com), path (e.g. /api/orders), and optional query parameters that may provide extra details for the request.
 - Headers are also optional additional details provided as a part of the request, like content type and authentication.
 - A body typically contains data being sent in the request, but is not used in GET requests.
 - See if you can identify the components described above in this example of an HTTP request:
@@ -59,6 +59,7 @@ As we mentioned earlier, HTTP defines different requests and responses.
         "data": "ABC123"
     }
     ```
+- One thing to note is that these component definitions aren't super strict and may differ slightly from online examples. Just focus on the concepts themselves rather than memorizing the different components!
 
 ### HTTP Responses:
 - After handling a received request, a server will send a response back to the client, consisting of a **head** and a **body**.
@@ -68,7 +69,7 @@ As we mentioned earlier, HTTP defines different requests and responses.
     - 3XX: redirection (request was received but it was redirected to someplace else or some additional action must be completed)
     - 4XX: client error (request wasn't made by the client correctly)
     - 5XX: server error (server failed to complete the received request)
-- The body contains any data/files that were requested
+- The body contains any data/files that were requested.
 
 ## Extra Stuff
 Before we get to the demo, there are a couple of things relevant to web APIs that aren't strictly necessary to know but are fairly fundemental.
