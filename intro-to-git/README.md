@@ -8,7 +8,7 @@ Welcome to the Into to Git workshop! In this workshop we'll explore the basics o
 
 ## Resources
 
-* Slides
+* [Slides](https://docs.google.com/presentation/d/11ShSF4tyv7Uof_YNRTYid7Up79wKKJd_1BGQlboxWqQ/edit?usp=sharing)
 * Workshop
 
 ## Table of Contents
