@@ -1,0 +1,39 @@
+/* Element Selector */
+li {
+    color: purple;
+  }
+  
+  h1 {
+    color: green;
+  }
+  
+  /* Class Selector */
+  .red {
+    color: red;
+  }
+  
+  /* ID Selector */
+  #blue {
+    color: blue;
+  }
+  
+  body {
+    background-color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 100px;
+  }
+  
+  img {
+    width: 500px;
+  }
+  
+  .header {
+    text-align: center;
+  }
+  
+  #myButton {
+    background-color: purple;
+    padding: 5px;
+    color: white;
+  }
+  
