@@ -7,7 +7,7 @@ Hi there! Welcome to the **HOTH XII Hackathon 101** guide. This resource is desi
 
 ## Resources  
 - [Slides](https://tinyurl.com/hack101-slides)  
-- [Recording](ADD_RECORDING_LINK)  
+- [Recording](https://drive.google.com/file/d/1xZD95N8w3dgpg45EvmL-Vl2jRzTlmuNh/view?usp=sharing)  
 
 ## Topics Covered  
 - [What is HOTH?](#what-is-hoth)  
