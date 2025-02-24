@@ -104,7 +104,7 @@ Before we get to the demo, there are a couple of things relevant to web APIs tha
 - Many web APIs have an online dashboard where you can create a unique API key. An API key is essentially a secret password that you send along with your request to let the server know that you're authorized to make requests to the server. If you use web APIs in a public repository, look into how to use `.env` files so you don't accidentally share your API key with the rest of the world!
 
 ## Demo
-We're going to now go through a demo that uses the Spotify Web API in a simple React app. If you aren't familiar with React, I'd recommend checking out our React workshop or just try to follow along to understand how the Spotify Web API works. **We're going to be stealing Spotify's search bar and adding it to our own site!** Feel free to follow along at your own pace! All the finished code will be at the bottom of this README.
+We're going to now go through a demo that uses the Spotify Web API in a simple React app. If you aren't familiar with React, I'd recommend checking out our React workshop (see all of our workshops [here](https://hoth.uclaacm.com/workshops)) or just try to follow along to understand how the Spotify Web API works. **We're going to be stealing Spotify's search bar and adding it to our own site!** Feel free to follow along at your own pace! All the finished code will be at the bottom of this README.
 
 To get started, open your terminal, navigate to the directory you'd like to have your React app stored in, and run:
 ```sh
