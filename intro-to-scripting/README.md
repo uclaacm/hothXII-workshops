@@ -1,6 +1,6 @@
 # HOTH XII Intro to Scripting
 
-**Date:** February 21, 2025  
+**Date:** February 24, 2025  
 **Teacher:** [Daniel Zhou](https://github.com/danielhzhou)
 
 Hi! Welcome to **HOTH XII’s Intro to Scripting** workshop! In this session, we’ll explore the fundamentals of scripting—what it is, how it differs from traditional programming, and when it’s useful. We’ll then walk through setting up Python, using Jupyter Notebook, creating virtual environments, and building a simple **web scraper** that handles multiple pages. By the end, you’ll have the core skills to automate tasks and gather data from websites with Python scripts. Let’s dive in!
@@ -9,7 +9,7 @@ Hi! Welcome to **HOTH XII’s Intro to Scripting** workshop! In this session, we
 
 ## Resources
 - **Slides**: [Intro to Scripting Slides](https://tinyurl.com/scripting-slides)  
-- **Workshop Recording**: 
+- **Workshop Recording**: will appear later
 
 ---
 
