@@ -69,7 +69,7 @@ while condition:
 - Test on controls, runtime, etc.
 
 ## Game Dev Demo
-For the Game Dev Demo, please refer to the HOTH Workshop Video or the code
+For the Game Dev Demo, please refer to the HOTH Workshop Video or the [code](https://github.com/uclaacm/hothXII-workshops/blob/main/intro-to-game-dev/Dodge_the_Squares.py)
 
 ## Game Dev Tips for HOTH
 - [PyGame Docs](pygame.org/docs) for more advanced techniques
