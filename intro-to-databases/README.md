@@ -1,5 +1,5 @@
 # HOTHXII Intro to Databases & MongoDB Workshop
-**Date:** March 2, 2025
+**Date of Workshop:** March 2, 2025
 
 **Teacher:** Lorelei Tang
 
