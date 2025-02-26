@@ -5,7 +5,7 @@
 
 **Description:** Hi!! This workshop provides a beginner-friendly introduction to databases and MongoDB. Participants will learn what databases are, why we use them, different types of databases, and how to perform CRUD (Create, Read, Update, Delete) operations in MongoDB. The session includes a live demo to reinforce key concepts. 
 
-- [Slides]()
+- [Slides](https://bit.ly/hothXII-db)
 - [Workshop Recording]()
 
 Let's hop right in!
