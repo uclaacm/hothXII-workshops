@@ -10,6 +10,17 @@
 
 Let's hop right in!
 
+---
+## Quick Links
+0. [Workshop Overview](#workshop-overview)
+1. [What Is A Database?](#1-what-is-a-database)
+2. [Why Do We Use Databases?](#2️-why-do-we-use-databases)
+3. [Types of Databases](#3️-types-of-databases)
+4. [What is MongoDB?](#4️-what-is-mongodb)
+5. [CRUD Operations in MongoDB](#5️-crud-operations-in-mongodb)
+6. [Demo with MongoDB](#6️-demo-with-mongodb)
+---
+
 ## Workshop Overview
 This workshop provides a beginner-friendly introduction to **databases** and **MongoDB**. You’ll learn:
 - What databases are and why they’re essential
@@ -191,10 +202,11 @@ db.users.deleteOne({ name: "Alice" });
 
 ### Hands-On Activity
 In this demo, we’ll:
+- Create a **MongoDB account**
+- Start a new **project**
 - Set up a **MongoDB database**
-- Create a **collection** and insert documents
-- Perform CRUD operations
-- Run **queries** to retrieve data
+- Create a **collection**
+- Connect the database to your **code**
 
 ### Prerequisites
 - Install **MongoDB** OR use [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
@@ -202,6 +214,7 @@ In this demo, we’ll:
 - Install VSCode or some sort of IDE where you can edit your code.
 
 **Resources**
+- [MongoDB Website](https://www.mongodb.com/)
 - [MongoDB Official Docs](https://www.mongodb.com/docs/)
 - [Online MongoDB Playground](https://mongoplayground.net/)
 - [How to Connect MongoDB to VSCode](https://www.mongodb.com/docs/mongodb-vscode/connect/)
@@ -219,7 +232,6 @@ In this demo, we’ll:
 By the end of this workshop, you’ll:
 * Understand **databases and their importance**
 * Know the difference between **SQL and NoSQL databases**
-* Perform **CRUD operations in MongoDB**
-* Be able to build **basic NoSQL applications**
+* Know what **CRUD operations are in MongoDB**
 
-Get ready to **master MongoDB** and start building powerful applications!! Good luck hackers!!!!
+Get ready to **master databases** and start building powerful applications!! Good luck hackers!!!!
