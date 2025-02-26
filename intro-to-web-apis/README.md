@@ -7,7 +7,7 @@ Hi there! Welcome to the Intro to Web APIs workshop, made for HOTH XII. We'll be
 
 ## Resources
 - [Slides](https://tinyurl.com/web-apis-slides)
-- [Recording](ADD RECORDING LINK)
+- [Recording](https://drive.google.com/file/d/1aslP_LMyeh-fHw63eMgGz0Esfs3iAI_C/view?usp=sharing)
 
 ## Topics Covered
 - [Client-Server Model](#client-server-model)
